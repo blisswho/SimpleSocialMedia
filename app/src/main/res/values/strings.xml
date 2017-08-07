@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleSocialMedia</string>
+
+    <string name="log_into_socialmedia">Log into SocialMedia</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="take_profile_picture">Take Profile Picture</string>
+    <string name="profile_picture_preview">Profile Picture Preview</string>
+    <string name="choose_register">Register</string>
+
+    <string name="post_image_contents">Post Image Contents</string>
+    <string name="user_profile_image">User Profile Image</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="username">Username</string>
+</resources>
